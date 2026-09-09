@@ -1,0 +1,318 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.android.material:material:1.14.0] /home/muril/.gradle/caches/9.5.0/transforms/648b764c699f7f057f32952070170b81/transformed/material-1.14.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/d132317aacac726d19aace5602521b10/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/muril/.gradle/caches/9.5.0/transforms/56c39c580267cf746385c7e50f5f45c1/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/9543d6ccd131a81cc577f5ecfc2d7766/transformed/appcompat-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/83585082deff672b4e0cd72dd7a8e966/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/muril/.gradle/caches/9.5.0/transforms/b6bbe7f82d98a1d231cfd38227265189/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/23c32a1607d5d6f316a51170a27621a9/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/6231735f17dd92b87af935ea54e40a6e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/18e8a0910b5a14e9cff16e74e72d3595/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/260eb00995553754e86b12d4bea7d472/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/muril/.gradle/caches/9.5.0/transforms/687c26e22d64581e324b371a11b6c609/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/ff79d75e3ab3ebdbcc0cf359c9cc7c0a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.2.0] /home/muril/.gradle/caches/9.5.0/transforms/0bf2e9bd1279f205f4a9e713b76f333f/transformed/customview-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] /home/muril/.gradle/caches/9.5.0/transforms/5872deb0cd0b03b7d3570b2dcb12a14a/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/515e0a6adeac136edaf64562ef166ef8/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/13e23a35047bdab22477ddb822faaef7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/268de0d922497e10fd94e069c3cde011/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/0e20a2eecea82a2dbd09257c18bd59ab/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/muril/.gradle/caches/9.5.0/transforms/6a1d4dc3338b857ecbb7a8ef5cc38e97/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/muril/.gradle/caches/9.5.0/transforms/4c6eece29eb350ec3d728cb8d76e9d1f/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/e6aaff7fc81eec58bf1339bdd4af9a08/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/4758ba97616c8b382844a70febdcd887/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/0ce3126fccd22ff67e98299b0c363fc9/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/98ee0b81549ac3be1b261d5dfd0aed40/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/da3bd4e3ee1b8dcc5d2f2b86610c00ac/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/2bc8aad44d11617290abb8115f4d7068/transformed/core-ktx-1.19.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/15ee49f5b364fe0743ef814df8b19dd7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/muril/.gradle/caches/9.5.0/transforms/1d673acde09795e46842e5674cc87fe8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/dfe0cffa1d64a23813f61cc6946cea34/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/73795e96cc4be8e63663280ea6f16134/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/aefc86cff697353f3ac1a05a2685a738/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/muril/.gradle/caches/9.5.0/transforms/c8c5cb08505e56c92aa4d0872d2b2829/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/5461f0cd8e1e823e49ac53267d2292e0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/muril/.gradle/caches/9.5.0/transforms/0855141a9a5d0e69d45262cd156ae075/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/f82cf7194578e45743393c65b3a333a1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:5:5-43:19
+INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:5:5-43:19
+MERGED from [com.google.android.material:material:1.14.0] /home/muril/.gradle/caches/9.5.0/transforms/648b764c699f7f057f32952070170b81/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.14.0] /home/muril/.gradle/caches/9.5.0/transforms/648b764c699f7f057f32952070170b81/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/muril/.gradle/caches/9.5.0/transforms/56c39c580267cf746385c7e50f5f45c1/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/muril/.gradle/caches/9.5.0/transforms/56c39c580267cf746385c7e50f5f45c1/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/15ee49f5b364fe0743ef814df8b19dd7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/15ee49f5b364fe0743ef814df8b19dd7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/5461f0cd8e1e823e49ac53267d2292e0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/5461f0cd8e1e823e49ac53267d2292e0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:13:9-63
+	android:dataExtractionRules
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.gerenciamentos_de_viagens.MainActivity
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:17:13-46
+	android:exported
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.gerenciamentos_de_viagens.ActivitiesListActivity
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:25:9-29:40
+	android:parentActivityName
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:28:13-55
+	android:label
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:27:13-49
+	android:exported
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:26:13-51
+activity#com.example.gerenciamentos_de_viagens.ActivityDetailActivity
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:31:9-35:40
+	android:parentActivityName
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:34:13-65
+	android:label
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:33:13-50
+	android:exported
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:32:13-51
+activity#com.example.gerenciamentos_de_viagens.SummaryActivity
+ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:37:9-41:40
+	android:parentActivityName
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:40:13-65
+	android:label
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:39:13-45
+	android:exported
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.14.0] /home/muril/.gradle/caches/9.5.0/transforms/648b764c699f7f057f32952070170b81/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.14.0] /home/muril/.gradle/caches/9.5.0/transforms/648b764c699f7f057f32952070170b81/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/d132317aacac726d19aace5602521b10/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/d132317aacac726d19aace5602521b10/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/muril/.gradle/caches/9.5.0/transforms/56c39c580267cf746385c7e50f5f45c1/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/muril/.gradle/caches/9.5.0/transforms/56c39c580267cf746385c7e50f5f45c1/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/9543d6ccd131a81cc577f5ecfc2d7766/transformed/appcompat-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/9543d6ccd131a81cc577f5ecfc2d7766/transformed/appcompat-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/83585082deff672b4e0cd72dd7a8e966/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/83585082deff672b4e0cd72dd7a8e966/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/muril/.gradle/caches/9.5.0/transforms/b6bbe7f82d98a1d231cfd38227265189/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/muril/.gradle/caches/9.5.0/transforms/b6bbe7f82d98a1d231cfd38227265189/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/23c32a1607d5d6f316a51170a27621a9/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/muril/.gradle/caches/9.5.0/transforms/23c32a1607d5d6f316a51170a27621a9/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/6231735f17dd92b87af935ea54e40a6e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/6231735f17dd92b87af935ea54e40a6e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/18e8a0910b5a14e9cff16e74e72d3595/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/18e8a0910b5a14e9cff16e74e72d3595/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/260eb00995553754e86b12d4bea7d472/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/260eb00995553754e86b12d4bea7d472/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/muril/.gradle/caches/9.5.0/transforms/687c26e22d64581e324b371a11b6c609/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/muril/.gradle/caches/9.5.0/transforms/687c26e22d64581e324b371a11b6c609/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/ff79d75e3ab3ebdbcc0cf359c9cc7c0a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/ff79d75e3ab3ebdbcc0cf359c9cc7c0a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.2.0] /home/muril/.gradle/caches/9.5.0/transforms/0bf2e9bd1279f205f4a9e713b76f333f/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.2.0] /home/muril/.gradle/caches/9.5.0/transforms/0bf2e9bd1279f205f4a9e713b76f333f/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/muril/.gradle/caches/9.5.0/transforms/5872deb0cd0b03b7d3570b2dcb12a14a/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/muril/.gradle/caches/9.5.0/transforms/5872deb0cd0b03b7d3570b2dcb12a14a/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/515e0a6adeac136edaf64562ef166ef8/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/515e0a6adeac136edaf64562ef166ef8/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/13e23a35047bdab22477ddb822faaef7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/13e23a35047bdab22477ddb822faaef7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/268de0d922497e10fd94e069c3cde011/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/muril/.gradle/caches/9.5.0/transforms/268de0d922497e10fd94e069c3cde011/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/0e20a2eecea82a2dbd09257c18bd59ab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/0e20a2eecea82a2dbd09257c18bd59ab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/muril/.gradle/caches/9.5.0/transforms/6a1d4dc3338b857ecbb7a8ef5cc38e97/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/muril/.gradle/caches/9.5.0/transforms/6a1d4dc3338b857ecbb7a8ef5cc38e97/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/muril/.gradle/caches/9.5.0/transforms/4c6eece29eb350ec3d728cb8d76e9d1f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/muril/.gradle/caches/9.5.0/transforms/4c6eece29eb350ec3d728cb8d76e9d1f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/e6aaff7fc81eec58bf1339bdd4af9a08/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/e6aaff7fc81eec58bf1339bdd4af9a08/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/4758ba97616c8b382844a70febdcd887/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/4758ba97616c8b382844a70febdcd887/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/0ce3126fccd22ff67e98299b0c363fc9/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/0ce3126fccd22ff67e98299b0c363fc9/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/98ee0b81549ac3be1b261d5dfd0aed40/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/98ee0b81549ac3be1b261d5dfd0aed40/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/da3bd4e3ee1b8dcc5d2f2b86610c00ac/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/da3bd4e3ee1b8dcc5d2f2b86610c00ac/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/2bc8aad44d11617290abb8115f4d7068/transformed/core-ktx-1.19.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/2bc8aad44d11617290abb8115f4d7068/transformed/core-ktx-1.19.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/15ee49f5b364fe0743ef814df8b19dd7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/15ee49f5b364fe0743ef814df8b19dd7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/muril/.gradle/caches/9.5.0/transforms/1d673acde09795e46842e5674cc87fe8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/muril/.gradle/caches/9.5.0/transforms/1d673acde09795e46842e5674cc87fe8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/dfe0cffa1d64a23813f61cc6946cea34/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/dfe0cffa1d64a23813f61cc6946cea34/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/73795e96cc4be8e63663280ea6f16134/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/73795e96cc4be8e63663280ea6f16134/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/aefc86cff697353f3ac1a05a2685a738/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/aefc86cff697353f3ac1a05a2685a738/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/muril/.gradle/caches/9.5.0/transforms/c8c5cb08505e56c92aa4d0872d2b2829/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/muril/.gradle/caches/9.5.0/transforms/c8c5cb08505e56c92aa4d0872d2b2829/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/5461f0cd8e1e823e49ac53267d2292e0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/5461f0cd8e1e823e49ac53267d2292e0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/muril/.gradle/caches/9.5.0/transforms/0855141a9a5d0e69d45262cd156ae075/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/muril/.gradle/caches/9.5.0/transforms/0855141a9a5d0e69d45262cd156ae075/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/f82cf7194578e45743393c65b3a333a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/muril/.gradle/caches/9.5.0/transforms/f82cf7194578e45743393c65b3a333a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/muril/Área de trabalho/gerenciamento-de-viagens/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/5461f0cd8e1e823e49ac53267d2292e0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/muril/.gradle/caches/9.5.0/transforms/5461f0cd8e1e823e49ac53267d2292e0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/muril/.gradle/caches/9.5.0/transforms/89ec773b8203362f0e547f4a512c11db/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:23:9-81
+permission#com.example.gerenciamentos_de_viagens.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.gerenciamentos_de_viagens.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/muril/.gradle/caches/9.5.0/transforms/c619c3dabe62641a85bb24c18f2b6e28/transformed/core-1.19.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/muril/.gradle/caches/9.5.0/transforms/d97ed53f300462af4611362a58bdd510/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/muril/.gradle/caches/9.5.0/transforms/403982f87c4a4118cdc0624cc9e74aba/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
